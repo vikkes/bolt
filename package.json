@@ -1,0 +1,22 @@
+{
+  "name": "bolt",
+  "version": "1.0.0",
+  "description": "bolt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikkes/bolt.git"
+  },
+  "author": "vikkes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikkes/bolt/issues"
+  },
+  "homepage": "https://github.com/vikkes/bolt#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
